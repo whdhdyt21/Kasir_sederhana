@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//nyobo zizzzzzz
+
 void petunjuk() {
     cout << "===================================================================================================================================================" << endl;
                 cout << "                                                         SELAMAT DATANG DI MENU PETUNJUK" << endl;
